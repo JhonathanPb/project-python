@@ -12,6 +12,7 @@ def lista_vazia():
                 add_tarefas()
     else:
         print(tarefa)
+
     
 
 while True:
