@@ -1,2 +1,2 @@
-# project-python
-Inicialmente apenas fazendo testes e guardando
+# Project Python
+Inicialmente apenas fazendo testes e aprendendo Python.
